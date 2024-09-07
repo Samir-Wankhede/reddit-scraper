@@ -1,0 +1,20 @@
+{
+  "name": "reddit-video-creator",
+  "version": "1.0.0",
+  "description": "An application that helps me in making reddit stories videos",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samir Wankhede",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.2",
+    "nodemon": "^3.1.4"
+  }
+}
